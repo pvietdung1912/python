@@ -1,2 +1,2 @@
-print("Hello, Google.")
-print("Hi!")
+strsonntoan = 'sontoan'
+print(strsonntoan)
